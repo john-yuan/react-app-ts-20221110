@@ -3,6 +3,7 @@
   "name": "documents",
   "version": "0.1.0",
   "scripts": {
+    "dev": "npm run storybook",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
